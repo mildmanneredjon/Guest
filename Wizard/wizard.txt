@@ -1,0 +1,6 @@
+
+name="GuestBuild Wizard"
+url="https://www.dropbox.com/s/j9sios6740o3h9y/Guest_Build_5.zip?dl=1"
+img="https://www.dropbox.com/s/fz729cwx8cwwhza/256x256.png?dl=1"
+fanart="https://www.dropbox.com/s/z6mwbi8nq8qf38a/Fanart.jpg?dl=1"
+description="The Latest v1.0.0 update"
