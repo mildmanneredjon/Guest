@@ -1,0 +1,10 @@
+
+name="Kodi 15.2"
+section="no"
+url="https://archive.org/details/kodi-15.2-Isengard-armeabi-v7a_201606"
+icon="https://github.com/mildmanneredjon/Guest/blob/master/Wizard/Images/APK.jpg"
+fanart="https://github.com/mildmanneredjon/Guest/blob/master/Wizard/Images/Fanart.jpg"
+adult="No"
+description="Old Version of Kodi"
+
+
