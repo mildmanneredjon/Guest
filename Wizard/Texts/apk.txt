@@ -1,10 +1,10 @@
-
-name="Kodi 15.2"
+name="Kodi Forks"
 section="no"
-url="https://archive.org/details/kodi-15.2-Isengard-armeabi-v7a_201606"
-icon="https://github.com/mildmanneredjon/Guest/blob/master/Wizard/Images/APK.jpg"
-fanart="https://github.com/mildmanneredjon/Guest/blob/master/Wizard/Images/Fanart.jpg"
-adult="No"
-description="Old Version of Kodi"
+url="http://aftermathwizard.net/repo/apks/kodifork.txt"
+icon="http://aftermathwizard.net/img/test2.png"
+fanart="http://aftermathwizard.net/img/test2fa.png"
+adult="no"
+description="APK 2 info"
+
 
 
