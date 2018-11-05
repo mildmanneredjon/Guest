@@ -1,6 +1,6 @@
-id="plugin.program.NAMEofWIZARD"  <<Matching Folder and Addon.xml
-version="0.1.7 Version Matches Addon.xml"
-zip="http:// Link to plugin.program.NAMEofWIZARD.zip"
+id="plugin.program.GuestBuild"  
+version="0.1.7.1"
+zip=""
 
 name="GuestBuild"               
 version="1.0"             
