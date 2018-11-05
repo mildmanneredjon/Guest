@@ -1,6 +1,6 @@
 id="plugin.program.GuestBuild"  
 version="0.1.7.1"
-zip=""
+zip="https://github.com/mildmanneredjon/Guest/blob/master/Wizard/plugin.program.GuestBuild-0.1.7.1.zip"
 
 name="GuestBuild"               
 version="1.0"             
